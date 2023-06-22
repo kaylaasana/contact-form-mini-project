@@ -1,0 +1,26 @@
+header,
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: black ;
+    color: white;
+}
+
+.header{
+    color: white;
+    position: fixed;
+    right: 250px;
+    background-color: blue;
+    
+}
+
+.image{
+    border: 20px;
+    padding: 15px;
+    margin: 35px;
+
+}
+
+.contact-form {
+    background-color: blueviolet;
+    color: white;
+}
